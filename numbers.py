@@ -4,4 +4,8 @@ ciphertext = 1151519506386231889993168548881374739577551628728968263649996528271
 
 result = long_to_bytes(ciphertext, blocksize = 2)
 
+<<<<<<< HEAD
 print(str(result))
+=======
+print(str(result))
+>>>>>>> b0da0132c01df93654359eb2c956660ce27ab367
